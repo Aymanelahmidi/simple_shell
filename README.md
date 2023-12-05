@@ -1,2 +1,2 @@
 # simple_shell
-my shell
+simple_shell
